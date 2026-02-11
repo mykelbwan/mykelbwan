@@ -26,7 +26,8 @@ My work spans backend APIs, modern frontend interfaces, and AI agents powered by
 
 **Infrastructure & Tooling**
 - Docker  
-- AWS, Contabo, Railway  
+- AWS
+- Linux
 - Environment-driven deployments and CI-friendly workflows
 
 ---
